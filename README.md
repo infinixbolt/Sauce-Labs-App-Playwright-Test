@@ -13,7 +13,7 @@
 
 ```
 git clone https://github.com/infinixbolt/Sauce-Labs-App-Playwright-Test.git
-cd Playwright-Sauce-Labs-App
+cd Sauce-Labs-App-Playwright-Test
 ```
 
 <p>2. Install dependencies:</p>
